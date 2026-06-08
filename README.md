@@ -12,7 +12,6 @@
 |------|------|
 | **加入討論** | [Discussions](https://github.com/AIDataPlatform/Community/discussions) |
 | **產品官網** | [ai-data-plateform.pages.dev](https://ai-data-plateform.pages.dev) |
-| **GitHub 組織** | [AIDataPlatform](https://github.com/AIDataPlatform) |
 | **Phison 官網** | [phison.com](https://www.phison.com) |
 
 ### 相關 Repositories
