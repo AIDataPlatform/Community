@@ -1,6 +1,7 @@
 <p align="center">
   <a href="README.md">English</a> ·
-  <strong>繁體中文</strong>
+  <strong>繁體中文</strong> ·
+  <a href="README.zh-CN.md">简体中文</a>
 </p>
 
 # AI Data Platform Community
